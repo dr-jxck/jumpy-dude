@@ -1,4 +1,4 @@
-# flying-dude
+# Dumpy Dude
 
 a flappy bird clone I made in 5 hours as a challange.
 
